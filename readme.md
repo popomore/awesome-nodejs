@@ -340,7 +340,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [Next.js](https://zeit.co/blog/next) - Minimalistic framework for server-rendered React apps.
 - [Nuxt.js](https://nuxtjs.org) - Minimalistic framework for server-rendered Vue.js apps.
 - [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
-
+- [Egg.js](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps
 
 ### Documentation
 
